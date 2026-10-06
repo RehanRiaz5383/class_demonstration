@@ -1,1 +1,3 @@
-console.log("This is app js file")
+export default function app(){
+    console.log("Hello from app.js");
+}
