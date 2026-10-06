@@ -1,0 +1,1 @@
+const variable = "Test variable from taimoor";
